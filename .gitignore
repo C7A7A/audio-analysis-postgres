@@ -1,3 +1,4 @@
 /data
-audio_data.csv
+/audio_data
+audio_metadata.csv
 .ipynb_checkpoints
