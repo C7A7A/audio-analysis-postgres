@@ -17,12 +17,4 @@ CREATE TABLE IF NOT EXISTS audio_analysed_data (
     mel_spectogram_plot BYTEA,
     chroma_plot BYTEA
 );
-
-
--- SELECT * FROM audio_data LIMIT 10;
--- SELECT encode(audio, 'hex') AS data FROM audio_data LIMIT 10;
--- SELECT * FROM audio_analysed_data;
--- SELECT count(*) FROM audio_analysed_data;
-
--- drop table audio_analysed_data;
 	
